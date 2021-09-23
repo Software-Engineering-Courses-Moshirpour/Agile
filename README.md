@@ -1,10 +1,10 @@
-# ensf609
+# ENSF607
 
 Created by: Yousef Mehrdad 
 
 Instructor: Dr. Mohammad Moshirpout 
 
-Date: Winter 2021
+Date: Fall 2021
 
 - Content: slides and sample project material
 - Sample: sample project created on Github
